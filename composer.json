@@ -24,7 +24,7 @@
         "php": "^5.6 || ^7.0 || ^8.0",
         "container-interop/container-interop": "^1.2",
         "psr/container": "^1.0",
-        "zendframework/zend-stdlib": "^3.2.1"
+        "amoktar/zend-stdlib": "^3.2.1"
     },
     "require-dev": {
         "mikey179/vfsstream": "^1.6.5",
@@ -39,7 +39,7 @@
     },
     "suggest": {
         "ocramius/proxy-manager": "ProxyManager 1.* to handle lazy initialization of services",
-        "zendframework/zend-stdlib": "zend-stdlib ^2.5 if you wish to use the MergeReplaceKey or MergeRemoveKey features in Config instances"
+        "amoktar/zend-stdlib": "zend-stdlib ^2.5 if you wish to use the MergeReplaceKey or MergeRemoveKey features in Config instances"
     },
     "autoload": {
         "psr-4": {
