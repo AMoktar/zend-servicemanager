@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-servicemanager",
+    "name": "amoktar/zend-servicemanager",
     "description": "Factory-Driven Dependency Injection Container",
     "license": "BSD-3-Clause",
     "keywords": [
